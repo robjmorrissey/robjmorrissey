@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Rob 👋
 
+I'm 18 years old and a co-founder & developer @giggl - a multiplayer space for browser & watching together with your friends. 
 <!--
 **robjmorrissey/robjmorrissey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
