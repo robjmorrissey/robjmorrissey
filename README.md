@@ -1,6 +1,6 @@
 ### Hey there, I'm Rob 👋
 
-I'm 18 years old and a co-founder & developer @ [Giggl](https://giggl.app) - a multiplayer space for browsing & watching together with your friends. 
+I'm 19 years old and a co-founder & developer @ [Giggl](https://giggl.app) - a multiplayer space for browsing & watching together with your friends. 
 
 ## 🌱 Experience
 I'm primarily a backend engineer building realtime services/APIs and bridging them to the client through React. 
