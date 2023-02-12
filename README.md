@@ -1,6 +1,6 @@
 ### Hey there, I'm Rob 👋
 
-I'm 19 years old and a co-founder & developer @ [Hop](https://hop.io) - a cloud platform for building and deploying realtime apps
+I'm 20 years old and a co-founder & developer @ [Hop](https://hop.io) - a cloud platform for building and deploying realtime apps
 
 ## 🌱 Experience
 I'm primarily a backend engineer building realtime services/APIs and bridging them to the client through React. 
